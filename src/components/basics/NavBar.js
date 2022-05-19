@@ -1,4 +1,4 @@
-import react,{useState} from 'react';
+// import react,{useState} from 'react';
 
 const NavBar = ({filterItems, menuList})=>{
 	return (
